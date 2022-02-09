@@ -6,8 +6,8 @@ Uma documentação de fácil acesso para quem quer aprender Unity
 
 ### Básico C#
 
-* [Regras de Nomenclatura](./csharp-basic/regras-de-nomenclatura.md)
-* [Classes e Objetos](./csharp-basic/classes-e-objetos.md)
+* [Regras de Nomenclatura](./docs/csharp-basic/regras-de-nomenclatura.md)
+* [Classes e Objetos](./docs/csharp-basic/classes-e-objetos.md)
     * Classes
     * Objetos
     * Objetos dentro de objetos?

@@ -1,5 +1,7 @@
 ## Classes e Objetos
 
+#### Classes
+
 Uma classe é um tipo de dado, assim como int, float, bool e string. A diferença é que nós podemos definir as informações contidas ali e os comportamentos que ele tem. As informações ai dentro são como variáveis, mas elas estão vinculadas ao escopo da classe.
 
 ```c#

@@ -18,3 +18,7 @@ Uma documentação de fácil acesso para quem quer aprender Unity
     * Métodos estáticos
 
 ### Básico Unity
+
+### Experimentos com Unity
+
+* [Sistema de Inventário](./unity-basic/sistema-de-inventario.md)
